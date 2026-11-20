@@ -3,3 +3,5 @@ new change two
 add. commit push
 new four
 new five
+new six
+six 2
