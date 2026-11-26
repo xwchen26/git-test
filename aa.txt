@@ -9,3 +9,4 @@ new eight
 ten
 elevn
 11 elevn
+12 twelve
